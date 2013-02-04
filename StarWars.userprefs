@@ -1,12 +1,6 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy.js">
-    <Files>
-      <File FileName="Assets\Scripts\Enemy.js" Line="34" Column="64" />
-      <File FileName="Assets\Kinect\Scripts\KUInterface.cs" Line="88" Column="10" />
-      <File FileName="Assets\Scripts\MouseFollow.js" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

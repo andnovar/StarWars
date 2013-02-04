@@ -44,6 +44,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Electricity\Scripts\LightningBolt.cs" />
      <Compile Include="Assets\Kinect\Scripts\KUInterface.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
@@ -52,6 +53,7 @@
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\Kinect\Documents\README.txt" />
+     <None Include="Assets\Electricity\Shaders\lightning.shader" />
      <None Include="Assets\Kinect\Documents\BSD.txt" />
   </ItemGroup>
   <ItemGroup>
